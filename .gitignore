@@ -1,0 +1,15 @@
+.vscode
+node_modules
+.ntvs_analysis.dat
+.settings/launch.json
+execParallel.js.bak
+fw_030117_git.njsproj
+package.json.bak
+uiAutoReporter.js.bak
+*.rar
+*.njsproj
+*.sln
+*.suo
+*.bak
+Demo_Flow01.feature
+debug.log
